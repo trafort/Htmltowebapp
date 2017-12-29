@@ -8,7 +8,7 @@ Hwy! I will teach you to change your html to hta, to make your html a app on win
 
 # Lets start
 
-- Add ```<HTA:APPLICATION ID="oHTA" APPLICATIONNAME="">``` to your Html file and rename it with .hta
+- Add ```<HTA:APPLICATION ID="oHTA" APPLICATIONNAME="">``` to  the top of your Html file and rename it with .hta
 - Add the app name in ``` APPLICATIONNAME=""```
 
 You're all done!
