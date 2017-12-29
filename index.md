@@ -18,5 +18,3 @@ You're all done!
 This is a example on a unknown windows os <br>
 <hr>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/HTA-Hello_World_example.png">
-
-<small> This Page is Open-source </small>
